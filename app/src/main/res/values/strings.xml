@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2026_II_Uso_SharedPreferences</string>
+    <string name="id_usuario">Id</string>
+    <string name="correo_usuario">Correo</string>
+    <string name="nombre_usuario">Nombre</string>
+    <string name="gradar_preference">Recordar usuario</string>
+    <string name="ingresar">Ingresar</string>
+</resources>
